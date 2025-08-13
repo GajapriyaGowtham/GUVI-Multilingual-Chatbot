@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+transformers>=4.26.0
+sentence-transformers
+langdetect
+torch
+python-docx
+googletrans==4.0.0rc1
+safetensors
+deep-translator

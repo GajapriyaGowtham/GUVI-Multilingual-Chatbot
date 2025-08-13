@@ -1,2 +1,12 @@
-# GUVI-Multilingual-Chatbot
-GUVI Multilingual RAG Chatbot with FAISS and embeddings. Answers questions in multiple languages using context from a custom dataset, and delivers responses in the user’s original language via Streamlit.
+---
+title: GUVI CHATBOT
+emoji: 📈
+colorFrom: indigo
+colorTo: pink
+sdk: docker
+sdk_version: 5.42.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
